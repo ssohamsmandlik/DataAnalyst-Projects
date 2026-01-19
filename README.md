@@ -1,51 +1,72 @@
-🔹 1. Blinkit Sales Performance Dashboard
+# 📊 Power BI Dashboards – Retail & Customer Behavior Analytics
 
-Objective: Analyze outlet performance, product categories, and sales trends over time.
+This repository contains **two interactive Power BI dashboards** built to analyze **retail sales performance** and **customer behavior trends** using business-focused KPIs and clean data modeling.
 
-Key Insights:
+---
 
-Total Sales, Average Sales, Item Count, and Customer Ratings KPIs
+## 🟡 Dashboard 1: Blinkit Sales Performance Analysis
 
-Sales distribution by Item Type, Fat Content, and Outlet Size
+### 🎯 Objective
+Analyze outlet performance, product demand, and sales trends across multiple dimensions.
 
-Outlet performance comparison across Tier 1, Tier 2, and Tier 3 cities
+### 📌 Key Metrics
+- 💰 Total Sales  
+- 📈 Average Sales  
+- 📦 Number of Items  
+- ⭐ Average Customer Rating  
 
-Year-wise outlet establishment trend analysis
+### 🔍 Key Insights
+- Sales breakdown by **Item Type** and **Fat Content**
+- Performance comparison across **Outlet Sizes** (Small, Medium, High)
+- Revenue contribution by **Outlet Location** (Tier 1, Tier 2, Tier 3)
+- Outlet establishment trends over time
+- Outlet type-wise sales and item visibility analysis
 
-Drill-down analysis by Outlet Type and Location
+### 🧠 Techniques Used
+- Power Query for data cleaning & transformation  
+- DAX for calculated measures and KPIs  
+- Interactive slicers for dynamic filtering  
+- Business-oriented dashboard design  
 
-Skills & Concepts Used:
+---
 
-Data cleaning & transformation (Power Query)
+## 🟣 Dashboard 2: Customer Behavior Analysis
 
-DAX measures for KPIs
+### 🎯 Objective
+Understand customer demographics, purchasing behavior, and subscription impact.
 
-Interactive slicers & filters
+### 📌 Key Metrics
+- 👥 Number of Customers  
+- 💵 Average Purchase Amount  
+- ⭐ Average Review Rating  
 
-Business-oriented dashboard design
+### 🔍 Key Insights
+- Subscription vs non-subscription customer distribution
+- Revenue and sales analysis by **Product Category**
+- Age-group-wise sales and revenue trends
+- Impact of **Shipping Type** on customer behavior
 
-🔹 2. Customer Behavior Dashboard
+### 🧠 Techniques Used
+- Data modeling and relationships  
+- Customer segmentation analysis  
+- Comparative analysis using visuals  
+- KPI-driven dashboard layout  
 
-Objective: Understand customer demographics, purchasing patterns, and subscription behavior.
+---
 
-Key Insights:
+## 🛠 Tools & Technologies
+- ⚙️ Power BI  
+- 🧮 DAX  
+- 🔄 Power Query  
+- 📊 Data Modeling & Visualization  
 
-Customer count, average purchase value, and review ratings
+---
 
-Subscription vs non-subscription customer analysis
+## 🚀 Project Highlights
+- Focus on **decision-oriented KPIs**
+- Designed for **real-world retail & e-commerce analytics**
+- Clean visuals with analytical depth (not cosmetic dashboards)
 
-Revenue & sales breakdown by product category
+---
 
-Age-group-wise revenue and sales trends
-
-Impact of shipping types on customer behavior
-
-Skills & Concepts Used:
-
-Data modeling & relationships
-
-Category and demographic segmentation
-
-Comparative analysis using visuals
-
-Insight-driven layout design
+📌 *This project demonstrates practical Business Intelligence skills aligned with Data Analyst and BI roles.*
