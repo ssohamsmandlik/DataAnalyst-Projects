@@ -64,7 +64,7 @@ Understand customer demographics, purchasing behavior, and subscription impact.
 
 ## 🚀 Project Highlights
 - Focus on **decision-oriented KPIs**
-- Designed for **real-world retail & e-commerce analytics**
+- Designed for **real-world retail & e-commerce analytics.**
 - Clean visuals with analytical depth (not cosmetic dashboards).
 
 ---
